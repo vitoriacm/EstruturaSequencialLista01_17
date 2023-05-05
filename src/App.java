@@ -36,9 +36,9 @@ public class App {
 
         System.out.printf(" A metragem a ser pintade é de %f metros quadrados", metragem);
         System.out.println("");
-        System.out.printf("A quantidae de latas é %f e o valor total em latas é %f " , quantidadeLatas, valorTotalLatas);
+        System.out.printf("A quantidade de latas é %f e o valor total em latas é %f " , quantidadeLatas, valorTotalLatas);
         System.out.println("");
-        System.out.printf("A quantidae de galões é %f e o valor total em galões é %f " , quantidadoGaloes, valorTotalGaloes);
+        System.out.printf("A quantidade de galões é %f e o valor total em galões é %f " , quantidadoGaloes, valorTotalGaloes);
         System.out.println("");
         System.out.printf(" A metragem para mistura é igual a %f", metragemMistura);
         System.out.println("");
